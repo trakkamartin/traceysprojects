@@ -20,12 +20,13 @@ Their business model has pivoted to now service the insurance industry in provid
 
 * How is the company funded? How much funding have they received?
 
+Open is a privately owned company that initially raised $6 million from investors, including Richard Enthoven, and Hollard Insurance Group. The company's insurance products are also underwritten by Hollard Insurance Group. (Quote from Wikipedia https://en.wikipedia.org/wiki/Open_Insurancereferencing,  "Huddle Money raises $6m to create peer-to-peer bank". 2016-06-20. Retrieved 2016-07-04.)
 
 ## Business Activities:
 
 * What specific financial problem is the company or project trying to solve?
 
-OPEN seeks to provide digital insurance solution for the insurance industry, including car, home and travel insurance to create faster access for customer and making it easier to buy and manage, saving insurers money. 
+OPEN seeks to provide digital insurance solution for the insurance industry, including car, home and travel insurance to create faster access for customer and making it easier to buy and manage, saving insurers money. (https://beopen.com/about-us/company visited on 21 November 2021)
 
 * Who is the company's intended customer?  Is there any information about the market size of this set of customers?
 
@@ -49,16 +50,41 @@ McKinsey identifies the following 5 trends as having a pronouced impact on insur
 4. Next-level automation
 5. Trust architecture 
 
-Stating, These technology trends have the potential to materially change some of the underlying inputs of insurance products and core functions. In underwriting, for example, automated warehouses (enabled via applied AI and distributed infrastructure) may fundamentally alter the nature and focus of workers’ compensation coverage by removing the majority of human workers from most warehouse operations. (McKinsey 
-
-PwC cites
-
-(PwC (2019). This is InsurTech's moment. Will Insurers seize the opportunity?. Visited on 21 November 2021 at https://www.pwc.com/us/en/industries/insurance/library/insurtech-innovation.html) 
-
-How top tech trends will transform insurance, by By Krish Krishnakanthan, Doug McElhaney, Nick Milinkovich, and Adi Pradhan
+Stating, These technology trends have the potential to materially change some of the underlying inputs of insurance products and core functions. In underwriting, for example, automated warehouses (enabled via applied AI and distributed infrastructure) may fundamentally alter the nature and focus of workers’ compensation coverage by removing the majority of human workers from most warehouse operations. (See quote in McKinsey 
+*How top tech trends will transform insurance*, by By Krish Krishnakanthan, Doug McElhaney, Nick Milinkovich, and Adi Pradhan
 https://www.mckinsey.com/industries/financial-services/our-insights/how-top-tech-trends-will-transform-insurance visited on 21 November 2021 
 
+PwC cites the following key elements as essential if an insurer or star-up wishes to make the most of fintech: 
+
+- Have a coherent strategy
+- The importance of cultural fit
+- Choose business models that work 
+- Manage innovation
+
+(PwC (2019). *This is InsurTech's moment. Will Insurers seize the opportunity*?. Visited on 21 November 2021 at https://www.pwc.com/us/en/industries/insurance/library/insurtech-innovation.html) 
+
+
 * What are the other major companies in this domain?
+
+**Overseas**
+Neos - UK
+Insurify - USA
+
+**Insurtechs Operating in Australia**
+Cover Genius (Sydney based) 
+Dacadoo (Swiss based) 
+Socotra (San Franciso cased) 
+Instanda (London based) 
+Honey Insurance (NSW Australia) 
+Daisee (Sydney based) 
+Avenus (location note stated) 
+Kanopi (Melbourne Australia) 
+FloodMapp (Brisbane Australia) 
+KOBA Insurance (Victoria Australia) 
+Zemble (Sydney Australia) 
+
+
+Source: *Australia insurtech companies – the leaders in 2021* https://www.insurancebusinessmag.com/au/news/technology/australia-insurtech-companies--the-leaders-in-2021-313538.aspx
 
 ## Results
 
@@ -68,8 +94,11 @@ https://www.mckinsey.com/industries/financial-services/our-insights/how-top-tech
 
 * What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
 
+Given that most of the insurtech companies in Australia are enablers of other insurers, their metrics are largely focused on sales/deals with other insurers to measure their success (Source: https://www.insurancebusinessmag.com/au/news/technology/australia-insurtech-companies--the-leaders-in-2021-313538.aspx) 
 
 * How is your company performing relative to competitors in the same domain?
+
+Open Insurance is not listed in this review of the top 10 (https://www.insurancebusinessmag.com/au/news/technology/australia-insurtech-companies--the-leaders-in-2021-313538.aspx) 
 
 ## Recommendations
 
