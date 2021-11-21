@@ -6,6 +6,7 @@
 
 * When was the company incorporated?
 
+2016
 
 * Who are the founders of the company?
 
@@ -13,7 +14,9 @@ Open Insurance was founded in 2016 in Sydney by Jason Wilby and Jonathan Buck (h
 
 * How did the idea for the company (or project) come about?
 
+Initially the co-founders started Huddle aiming to challenge 'traditional financial services in Australian and offering a transparent and technology driven model for consumer.' See https://en.wikipedia.org/wiki/Open_Insurance citing  Business, Insurance. "Is insurtech the best way to bring trust back to insurance?". Insurance Business. Retrieved 2018-04-22  "Huddle Money raises $6m to create peer-to-peer bank". 2016-06-20. Retrieved 2016-07-04.
 
+Their business model has pivoted to now service the insurance industry in providing insurance digital solutions. 
 
 * How is the company funded? How much funding have they received?
 
