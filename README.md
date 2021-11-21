@@ -1,13 +1,8 @@
-# traceysprojects
-class3activity
-Tracey Martin lawyer ag producer and ceo
-To develop and agrtech idea
-It is part of the agtech business. 
 # Open Insurance - Fintech Case study
 
 ## Overview and Origin
 
-* Open Insusrance
+**Open Insusrance**
 
 * When was the company incorporated?
 
