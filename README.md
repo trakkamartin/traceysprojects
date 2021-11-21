@@ -14,7 +14,7 @@ It is part of the agtech business.
 
 * Who are the founders of the company?
 
-Founded in 2016 in Sydney by Jason Wilby and Jonathan Buck (https://beopen.com/about-us/company) 
+Open Insurance was founded in 2016 in Sydney by Jason Wilby and Jonathan Buck (https://beopen.com/about-us/company) 
 
 * How did the idea for the company (or project) come about?
 
@@ -44,9 +44,21 @@ InsurTech
 
 * What have been the major trends and innovations of this domain over the last 5-10 years?
 
+McKinsey identifies the following 5 trends as having a pronouced impact on insurance: 
+1. Applied AI
+2. Distributed infratructure
+3. Future of connectivity
+4. Next-level automation
+5. Trust architecture 
+
+Stating, These technology trends have the potential to materially change some of the underlying inputs of insurance products and core functions. In underwriting, for example, automated warehouses (enabled via applied AI and distributed infrastructure) may fundamentally alter the nature and focus of workers’ compensation coverage by removing the majority of human workers from most warehouse operations. (McKinsey 
+
 PwC cites
 
-(PwC (2019). This is InsurTech's moment. Will Insurers seize the opportunity?. Accessed 21 November 2021 at https://www.pwc.com/us/en/industries/insurance/library/insurtech-innovation.html) 
+(PwC (2019). This is InsurTech's moment. Will Insurers seize the opportunity?. Visited on 21 November 2021 at https://www.pwc.com/us/en/industries/insurance/library/insurtech-innovation.html) 
+
+How top tech trends will transform insurance, by By Krish Krishnakanthan, Doug McElhaney, Nick Milinkovich, and Adi Pradhan
+https://www.mckinsey.com/industries/financial-services/our-insights/how-top-tech-trends-will-transform-insurance visited on 21 November 2021 
 
 * What are the other major companies in this domain?
 
@@ -57,6 +69,7 @@ PwC cites
 
 
 * What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
+
 
 * How is your company performing relative to competitors in the same domain?
 
